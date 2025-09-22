@@ -1,4 +1,4 @@
-# Prácticas de laboratorio - Óptica 1 (Grado en Física, 3º)
+# Prácticas de laboratorio - Óptica 1 (3º Grado en Física, Universidad de Córdoba)
 
 Este repositorio incluye tres guiones de prácticas de laboratorio para la asignatura de Óptica 1:
 
