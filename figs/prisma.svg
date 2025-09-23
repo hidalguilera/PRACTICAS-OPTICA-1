@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="prisma.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jhidalgo/OneDrive/OPTICA 1/PRACTICAS OPTICA 1/figs/prisma.png"
+   inkscape:export-xdpi="149.82965"
+   inkscape:export-ydpi="149.82965">
   <defs
      id="defs2">
     <marker
@@ -195,9 +198,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-101.52388"
-     inkscape:cy="217.76512"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-1134.239"
+     inkscape:cy="336.40326"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -232,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
